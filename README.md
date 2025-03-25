@@ -62,8 +62,11 @@ Potentiometer at 1000 → Forbidden Enigma mode
 Green button pressed → Mystic Code mode
 
 # Possible improvements :
+
 1.	 Guardian of the Lost Lights mode: Add a more complex sequence where several buttons must be pressed in a precise order.
+
 2.	Audio indications: Add a buzzer to indicate errors or successes.
+
 3.	LCD display: Use an LCD screen to guide the user through the active mode and the steps to follow.
 
 # Conclusion
