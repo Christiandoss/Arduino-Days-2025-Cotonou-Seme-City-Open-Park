@@ -49,11 +49,16 @@ The RGB LED displays all the colors of the rainbow, depending on the position of
 
 4.	Forbidden Enigma mode
 The LED flashes Morse code to guide the user.
-For example, it may display the letter “...-” for violet.
-The mode is determined by the position of the potentiometer or by pressing the green button:
+For example, it may display the letter “...-” for purple.
+
+The mode is determined by the position of the potentiometer or by pressing the green button :
+
 Potentiometer at 0 → Button mode
+
 Potentiometer between 10 and 1000 → Total Arcane mode
+
 Potentiometer at 1000 → Forbidden Enigma mode
+
 Green button pressed → Mystic Code mode
 
 # Possible improvements :
